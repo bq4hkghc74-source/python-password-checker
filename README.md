@@ -26,7 +26,7 @@ It evaluates passwords based on length, uppercase/lowercase letters, numbers, an
 
 ```
 # Clone the repository
-git clone https://github.com/your-username/python-password-checker.git
+git clone https://github.com/bq4hkghc74-source/python-password-checker.git
 
 # Go into the project folder
 cd python-password-checker
