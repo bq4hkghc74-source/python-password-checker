@@ -41,5 +41,8 @@ Password is strong.
 # Screenshots
 ![password_strength_checker](password_strength_checker)
 
+# Disclaimer
+For educational purposes only.
+
 ## Author
 SOC Lab Project
