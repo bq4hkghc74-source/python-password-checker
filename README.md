@@ -39,7 +39,7 @@ Enter your password to check: Lion453!
 Password is strong.
 
 # Screenshots
-![password_strength_checker](password_strength_checker)
+![password_strength_checker](password_strength_checker.png)
 
 # Disclaimer
 For educational purposes only.
